@@ -12,7 +12,6 @@ namespace SumSqueareDifference
             double c = 0;
             double x = 0;
             double s = 0;
-
             List<double> num1 = new List<double>();
             for (double i = 1; i <= 100; i++)
             {
